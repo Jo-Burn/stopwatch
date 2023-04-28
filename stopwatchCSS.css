@@ -1,0 +1,45 @@
+body {
+    background: orange;
+    color: white;
+    text-align: center;
+}
+h2 {
+    font-size: 50px;
+}
+div {
+    height: 100px;
+    width: 120px;
+}
+div:hover {
+    background-color: black;
+    
+}
+button {
+    height: 95px;
+    width: 115px;
+}
+#start {
+    text-align: center;
+    position: relative;
+    left: 350px;
+}
+#stop {
+    text-align: center;
+    position: relative;
+    left: 550px;
+    bottom: 103px;
+}
+#reset {
+    text-align: center;
+    position: relative;
+    left: 750px;
+    bottom: 203px;
+}
+#counter {
+    background-color: yellow;
+    position: relative;
+    top: 300px;
+    left: 550px;
+    text-align: center;
+    font-size: 50px;
+}
